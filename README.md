@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact@mantoshkr.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 My Resume [resume link](resume link)
 
 
 <p align="left">
