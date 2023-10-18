@@ -5,7 +5,7 @@
 
 <img align="right" width="200"  alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
-- 👨‍💻 All of my projects are available at [https://mantoshkr.com](https://mantoshkr.com)
+- 👨‍💻 My Website [https://mantoshkr.com](https://mantoshkr.com)
 
 - 📫 How to reach me **contact@mantoshkr.com**
 
