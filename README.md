@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Website [https://mantoshkr.com](https://mantoshkr.com)
 
-- 📫 How to reach me **contact@mantoshkr.com**
+- 📫 How to reach me **mk@mantoshkr.com**
 
 - 📄 My Resume [resume link](resume link)
 
