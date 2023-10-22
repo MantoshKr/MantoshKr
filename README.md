@@ -5,11 +5,11 @@
 
 <img align="right" width="200"  alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
-- 👨‍💻 My Website [https://mantoshkr.com](https://mantoshkr.com)
+
 
 - 📫 How to reach me **mk@mantoshkr.com**
 
--  Twitter  [@mantoshkr515](@mantoshkr515)
+-  Twitter  [twitter.com/mantoshkr515](twitter.com/mantoshkr515)
 
 
 <p align="left">
