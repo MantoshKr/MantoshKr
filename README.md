@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mk@mantoshkr.com**
 
-- 📄 My Resume [resume link](resume link)
+-  Twitter  [@mantoshkr515](@mantoshkr515)
 
 
 <p align="left">
