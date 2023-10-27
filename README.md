@@ -5,14 +5,20 @@
 
 <img align="right" width="200"  alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
+- 🔭 I’m currently working on [Mega-mart](https://mega-mart-shopping.vercel.app/)
 
+- 🌱 I’m currently learning **Typescript**
+
+- 👨‍💻 All of my projects are available at [https://mantoshkr.com](https://mantoshkr.com)
 
 - 📫 How to reach me **mk@mantoshkr.com**
 
--  Twitter  [twitter.com/mantoshkr515](twitter.com/mantoshkr515)
+- 📄 My Resume [resume.mantoshkr.com](https://resume.mantoshkr.com)
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mantoshkr515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mantoshkr515" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mantoshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantoshkr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
