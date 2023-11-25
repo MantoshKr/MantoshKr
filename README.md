@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mantoshkr.com](https://mantoshkr.com)
 
-- 📫 How to reach me **mk@mantoshkr.com**
+- 📫 How to reach me **mantoshkr515@gmail.com**
 
 - 📄 My Resume [resume.mantoshkr.com](https://resume.mantoshkr.com)
 
