@@ -1,11 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Mantosh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" width="200"  alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
-
-- 🔭 I’m currently working on [Mega-mart](https://mega-mart-shopping.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript**
 
